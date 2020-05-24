@@ -15,5 +15,5 @@
 
 ### About page
 <p align="center">
-  <img src="https://github.com/dima199980/Nails-Salon/blob/master/mockups/About_page.png">
+  <img src="https://github.com/dima199980/Nails-Salon/blob/master/mockups/About_page.PNG">
 </p>
