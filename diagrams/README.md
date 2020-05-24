@@ -29,7 +29,7 @@
 ##  1.2. Диаграммы активности
 
 <p align="center">
-  <img src="https://github.com/dima199980/Nails-Salon/blob/master/diagrams/images/Catalog_algorithm.png">
+  <img src="https://github.com/dima199980/Nails-Salon/blob/master/diagrams/images/Order_algorithm.png">
 </p>
 
 <p align="center">
@@ -37,7 +37,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/dima199980/Nails-Salon/blob/master/diagrams/images/Order_algorithm.png">
+  <img src="https://github.com/dima199980/Nails-Salon/blob/master/diagrams/images/Review_algorithm.png">
 </p>
 
 <p align="center">
